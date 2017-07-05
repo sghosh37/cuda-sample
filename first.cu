@@ -20,7 +20,7 @@ int main(void)
 	printf("x:%p y:%p d_x:%p d_y:%p\n", x, y, d_x, d_y);
 
 	for (int i = 0; i < N; i++) {
-		x[i] = 1.0f;
+		x[i] = 2.0f;
 		y[i] = 2.0f;
 	}
 
